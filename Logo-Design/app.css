@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+}
+main {
+  background-color: black;
+  height: 100vh;
+  width: 100vw;
+}
+.logo {
+  /* border: 2px solid white; */
+  height: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+.text {
+  font-family: "Poppins", sans-serif;
+  height: 50%;
+  width: 5%;
+  font-size: 2rem;
+  text-align: center;
+}

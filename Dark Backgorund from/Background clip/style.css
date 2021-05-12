@@ -1,0 +1,15 @@
+* {
+  position: relative;
+}
+div {
+  height: 80vh;
+  width: 80%;
+  background-color: aqua;
+  position: absolute;
+  top: 50px;
+  left: 150px;
+}
+h1 {
+  top: 20px;
+  left: 285px;
+}

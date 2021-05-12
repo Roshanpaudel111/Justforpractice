@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+button {
+  background-color: black;
+  color: white;
+  border: 1px solid rgb(52, 107, 61);
+  font-family: cabin;
+  cursor: pointer;
+  font-size: 1em;
+  font-weight: 100;
+  padding: 1em 2em;
+}
+
+button:hover {
+  transform: scale(1.05);
+  color: rgb(103, 219, 122);
+  border: 2px solid rgb(103, 219, 122);
+  box-shadow: 0em 0em 1em rgb(112, 233, 132);
+  transition: 0.25s;
+}
